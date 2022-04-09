@@ -1,2 +1,2 @@
 # musiyip
-simple music player in wordpress
+simple music player plugin for wordpress
