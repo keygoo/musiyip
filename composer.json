@@ -1,0 +1,14 @@
+{
+    "name": "retorica-puzzle/musiyip",
+    "description": "simple music player on wordpress",
+    "type": "no",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "retorica-puzzle",
+            "email": "retorica-puzzle@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
