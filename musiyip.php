@@ -69,7 +69,7 @@ if ( !class_exists( 'Musiyip' ) ) {
 		}
 
 		public function admin_index() {
-			require_once plugin_dir_path( __FILE__ ) . 'templates/admin.php';
+			require_once plugin_dir_path( __FILE__ ) . 'views/musiyip.php';
 		}
 
 		protected function create_post_type() {
